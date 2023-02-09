@@ -1,0 +1,22 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+table tr td:first-child {
+    padding: 2px 5px;
+    width: 16%;
+    padding: 0 0 0 5px;
+}
+
+.tr3 {
+    height: 17px;
+}
+
+.head_td {
+    text-align: left;
+}
+
+table tr td {
+    max-width: 1vw;
+}
